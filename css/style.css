@@ -137,13 +137,13 @@ hr {
 .auto-container {
   position: static;
   max-width: 1200px;
-  padding: 0 80px;
+  padding: 0 50px;
   margin: 0 auto;
 }
 
 /*Section Padding CSS*/
 .section-padding {
-  padding: 100px 0;
+  padding: 10px 0;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -771,7 +771,7 @@ input.form-control {
   background-color: #097e51;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../fonts/preloader.svg);
+  background-image: url(../images/Albertine\ Waste\ Management\ JV\ White\ Logo.png);
 }
 
 ::placeholder {
@@ -970,7 +970,7 @@ input.form-control {
   }
 }
 .header-top .contact-info i {
-  color: #DFB163;
+  color: #be8c35;
   font-size: 20px;
 }
 .header-top .quick_link {
@@ -5393,7 +5393,7 @@ label.form-label {
 .contact-page-google-map {
   position: relative;
   display: block;
-  padding: 120px 0 41px;
+  padding: 30px 0 20px;
 }
 
 .contact-page-google-map iframe {
@@ -5407,7 +5407,7 @@ label.form-label {
 .contact-page-details {
   position: relative;
   display: block;
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 @media (max-width: 767px) {
   .contact-page-details {
@@ -5582,7 +5582,7 @@ label.form-label {
 .contact-page {
   position: relative;
   display: block;
-  padding: 120px 0 120px;
+  padding: 30px 0 30px;
   border-top: 1px solid #eee;
 }
 @media (max-width: 767px) {
